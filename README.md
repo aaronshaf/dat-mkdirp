@@ -2,7 +2,7 @@
 const mkdirp = require('dat-mkdirp');
 
 async function main() {
-  await mkdir('/foo/bar', archive);
+  await mkdirp('/foo/bar', archive);
 }
 
 main();
