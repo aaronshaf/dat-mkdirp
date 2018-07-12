@@ -1,6 +1,6 @@
 {
   "name": "dat-mkdirp",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "repository": "https://github.com/aaronshaf/dat-mkdirp.git",
   "author": "Aaron Shafovaloff <aaronshaf@gmail.com>",
