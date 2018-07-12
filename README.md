@@ -1,5 +1,9 @@
 ```javascript
 const mkdirp = require('dat-mkdirp');
 
-mkdir('/foo/bar', archive);
+async function main () {
+  await mkdir('/foo/bar', archive);
+}
+
+main()
 ```
